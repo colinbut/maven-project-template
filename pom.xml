@@ -60,6 +60,12 @@
                     <version>2.2</version>
                 </plugin>
 
+                <plugin>
+                    <groupId>org.eclipse.jetty</groupId>
+                    <artifactId>jetty-maven-plugin</artifactId>
+                    <version>9.2.11.v20150529</version>
+                </plugin>
+
             </plugins>
         </pluginManagement>
     </build>
